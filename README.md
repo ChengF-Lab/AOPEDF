@@ -24,7 +24,7 @@
 - `Sim_drugDisease`: Drug-Disease Jaccard similarity matrix
 - `Sim_drugsideEffect.txt`: Drug-SideEffect Jaccard similarity matrix
 - `Sim_proteinDisease.txt`: Protein-Disease Jaccard similarity matrix
-**Note:** Since drug-disease network, drug-side-effect network and protein-disease network are heterogeneous network, we calculate the corresponding similarity networks based on the Jaccard similarity coefficient for them
+>Noted: Since drug-disease network, drug-side-effect network and protein-disease network are heterogeneous network, we calculate the corresponding similarity networks based on the Jaccard similarity coefficient for them
 
 ### 'AROPE' directory
 This directory contains code necessary to use AROPE to extract arbitrary-Order proximity from different network
